@@ -1,4 +1,3 @@
-// src/components/Controls/FilterControls.tsx
 import React from "react";
 import { Select } from "@mantine/core";
 

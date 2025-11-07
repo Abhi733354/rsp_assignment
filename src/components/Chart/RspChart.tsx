@@ -1,4 +1,3 @@
-// src/components/Chart/RspChart.tsx
 import React, { useEffect, useRef } from "react";
 import * as echarts from "echarts";
 import '../../styles/main.css'
